@@ -74,8 +74,8 @@ Program Manajemen Barang adalah aplikasi desktop yang memungkinkan pengguna untu
 
 ## Struktur Kode
 
-- **`Barang` Class:** Kelas untuk menyimpan informasi barang (nama, harga, stok).
-- **`BarangApp` Class:** Kelas utama yang mengelola antarmuka pengguna dan logika aplikasi.
+- **`Barang Class:`** Kelas untuk menyimpan informasi barang (nama, harga, stok).
+- **`BarangApp Class:`** Kelas utama yang mengelola antarmuka pengguna dan logika aplikasi.
   - **`__init__`:** Menyiapkan jendela utama dan menu aplikasi.
   - **`create_header`:** Membuat header aplikasi dengan judul.
   - **`create_menu`:** Membuat menu dengan tombol-tombol untuk akses berbagai fungsi.
