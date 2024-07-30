@@ -1,6 +1,6 @@
 # Program Perhitungan Bangun Datar
 
-## Deskripsi
+## Description
 
 Program ini adalah aplikasi desktop untuk menghitung luas dan keliling berbagai bangun datar seperti segi empat, persegi panjang, segitiga, dan lingkaran. Program ini menggunakan antarmuka grafis pengguna (GUI) yang dibangun dengan Python dan Tkinter. Pengguna dapat memilih jenis bangun datar, memasukkan nilai-nilai yang diperlukan, dan mendapatkan hasil perhitungan.
 
