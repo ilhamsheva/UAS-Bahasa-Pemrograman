@@ -1,6 +1,6 @@
 # Program Sewa Hotel - Hotel Sejuk Asri
 
-## Deskripsi
+## Description
 
 Program ini adalah aplikasi manajemen pembayaran untuk Hotel Sejuk Asri. Aplikasi ini memungkinkan petugas hotel untuk menghitung total pembayaran sewa kamar berdasarkan informasi yang diberikan oleh pelanggan. Program ini juga menghitung diskon dan pajak (PPN) serta memberikan rincian pembayaran kepada pelanggan.
 
