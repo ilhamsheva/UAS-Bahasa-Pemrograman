@@ -20,18 +20,18 @@ Program ini adalah aplikasi manajemen pembayaran untuk Hotel Sejuk Asri. Aplikas
 2. **Menjalankan Program:**
    - Download atau clone repository ini ke mesin lokal Anda.
    - Buka terminal atau command prompt.
-   - Navigasi ke directory di mana file `main_program.py` berada.
+   - Navigasi ke directory di mana file `sewahotel.py` berada.
    - Jalankan perintah berikut:
 
      ```sh
-     python main_program.py
+     python sewahotel.py
      ```
 
    - Aplikasi GUI akan muncul, dan Anda dapat memasukkan informasi yang diperlukan untuk menghitung pembayaran.
 
 ## Struktur Program
 
-- **`main_program.py`**: File utama yang berisi logika program dan antarmuka pengguna menggunakan `tkinter`.
+- **`sewahotel.py`**: File utama yang berisi logika program dan antarmuka pengguna menggunakan `tkinter`.
 - **`README.md`**: File dokumentasi ini yang menjelaskan cara menggunakan program dan informasi lainnya.
 
 ## Kode Kamar dan Harga
