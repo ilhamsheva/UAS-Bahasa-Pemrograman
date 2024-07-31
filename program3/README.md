@@ -21,18 +21,18 @@ Program Manajemen Barang adalah aplikasi desktop yang memungkinkan pengguna untu
 2. **Menjalankan Program:**
    - Download atau clone repository ini ke mesin lokal Anda.
    - Buka terminal atau command prompt.
-   - Navigasi ke direktori di mana file `main_program.py` berada.
+   - Navigasi ke direktori di mana file `barang.py` berada.
    - Jalankan perintah berikut:
 
      ```sh
-     python main_program.py
+     python barang.py
      ```
 
    - Aplikasi GUI akan muncul dan Anda dapat mulai menggunakan aplikasi untuk mengelola data barang.
 
 ## Struktur Program
 
-- **`main_program.py`**: File utama yang berisi logika aplikasi dan antarmuka pengguna menggunakan Tkinter.
+- **`barang.py`**: File utama yang berisi logika aplikasi dan antarmuka pengguna menggunakan Tkinter.
 
 ## Penjelasan Fitur
 
