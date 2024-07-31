@@ -21,18 +21,18 @@ Program ini adalah aplikasi desktop untuk menghitung luas dan keliling berbagai 
 2. **Menjalankan Program:**
    - Download atau clone repository ini ke mesin lokal Anda.
    - Buka terminal atau command prompt.
-   - Navigasi ke direktori di mana file `main_program.py` berada.
+   - Navigasi ke direktori di mana file `bangundatar.py` berada.
    - Jalankan perintah berikut:
 
      ```sh
-     python main_program.py
+     python bangundatar.py
      ```
 
    - Aplikasi GUI akan muncul dan Anda dapat mulai menggunakan aplikasi untuk menghitung bangun datar.
 
 ## Struktur Program
 
-- **`main_program.py`**: File utama yang berisi logika program dan antarmuka pengguna menggunakan `tkinter`.
+- **`bangundatar.py`**: File utama yang berisi logika program dan antarmuka pengguna menggunakan `tkinter`.
 
 ## Penjelasan Fitur
 
